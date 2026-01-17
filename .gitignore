@@ -1,0 +1,9 @@
+# binários gerados
+/hello
+*.exe
+*.out
+*.test
+
+# opcional: vendor (caso um dia gere)
+/vendor/
+.env
